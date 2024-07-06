@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer dedicated to cont
 
 Seeking a dynamic opportunity, either as an intern or in an entry-level position, where I can apply and develop my skills in Linux, Git, GitHub, Ansible, Docker, Kubernetes, CI/CD pipelines, Jenkins, and other DevOps tools. I am enthusiastic about contributing to innovative projects, gaining practical experience, and advancing my expertise in DevOps practices.
 
+![Project GIF](![Uploading image.png…]()
+)
+
 ## 📧 Contact Information
 
 - **WhatsApp:** +923347508966
