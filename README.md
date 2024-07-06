@@ -73,7 +73,7 @@ I love connecting with like-minded professionals and enthusiasts. Feel free to r
 
 ## 📄 Resume
 
-You can view my resume [here](Link to resume).
+For a concise overview of my experience and skills, please view my resume [here](Link to resume).
 
 ---
 
