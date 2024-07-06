@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ullah</h1>
-<h3 align="center">Devops Engineer from Pakistan</h3>
+# Hi there 👋, I'm [Your Name]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsengineermuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="devopsengineermuhammad" /> </p>
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer dedicated to continuous learning and sharing knowledge with the community. Below, you'll find information about my skills, projects, and how to connect with me.
 
-- 🌱 I’m currently learning **Kubernetes**
+## 🚀 About Me
 
-- 💬 Ask me about **Linux, Ansible, Docker, Kubernetes, CI/CD Pipeline with Jenkins.**
+I am a fresh DevOps Engineer actively seeking internships or entry-level positions. My journey in DevOps includes mastering various tools and technologies, and I regularly share my learning experiences through blogs and projects.
 
-- 📫 How to reach me **muhammad77pro@gmail.com**
+## 🛠 Skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15GwmZP2nFQDQNeadyRuyZOkWDN5Atszp/view?usp=drivesdk](https://drive.google.com/file/d/15GwmZP2nFQDQNeadyRuyZOkWDN5Atszp/view?usp=drivesdk)
+Here are some of the technologies and tools I am proficient with:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ullah" height="30" width="40" /></a>
-</p>
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes (in progress)
+- **Configuration Management:** Ansible (learning)
+- **CI/CD:** Jenkins, ArgoCD
+- **Cloud Platforms:** AWS, Azure (learning)
+- **Scripting:** Shell scripting, Python (learning)
+- **Version Control:** Git, GitHub
+- **Operating Systems:** Linux
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+## 📚 Learning Journey
+
+I am committed to a structured learning path to enhance my DevOps skills over the next 3 to 5 years. Here’s a glimpse of my roadmap:
+
+1. Kubernetes
+2. Linux
+3. Shell Scripting
+4. Ansible
+5. Docker
+6. CI/CD Pipeline with Jenkins and ArgoCD
+7. AWS Cloud
+8. Azure Cloud
+9. Azure DevOps
+10. Python language and scripting
+11. Contributing to open-source projects
+
+## 📂 Projects
+
+Here are some of my notable projects:
+
+- **[Project Name](Link to GitHub repository):** Brief description of the project.
+- **[Project Name](Link to GitHub repository):** Brief description of the project.
+- **[Project Name](Link to GitHub repository):** Brief description of the project.
+
+You can find more of my projects [here](Link to GitHub repositories).
+
+## 📖 Blogs
+
+I regularly write blogs to share my learning experiences and tips on DevOps. Check out my latest articles on [Hashnode](Link to Hashnode profile):
+
+- **[Blog Title](Link to blog post):** Brief description of the blog post.
+- **[Blog Title](Link to blog post):** Brief description of the blog post.
+- **[Blog Title](Link to blog post):** Brief description of the blog post.
+
+## 💬 Let's Connect
+
+I love connecting with like-minded professionals and enthusiasts. Feel free to reach out to me on:
+
+- **LinkedIn:** [Your LinkedIn Profile](Link to LinkedIn profile)
+- **GitHub:** [Your GitHub Profile](Link to GitHub profile)
+- **Hashnode:** [Your Hashnode Profile](Link to Hashnode profile)
+
+## 📄 Resume
+
+You can view my resume [here](Link to resume).
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
