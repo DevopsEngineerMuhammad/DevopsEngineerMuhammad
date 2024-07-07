@@ -81,4 +81,4 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 
 ![DevOps Skills](https://www.datocms-assets.com/2885/1620155322-blog-banner.png) <!-- Update with an appropriate skills image URL -->
 
-https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif
+![Gif](https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif)
