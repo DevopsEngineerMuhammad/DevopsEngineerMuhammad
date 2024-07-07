@@ -79,7 +79,10 @@ For a concise overview of my experience and skills, please view my resume [here]
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
 
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="500"/></p>
+- <p align="left"><img src="https://miro.medium.com/v2/resize:fit:1400/1*pCaz29jmBaD-KHaS4dlKaQ.gif" alt="DevOps GIF" width="1000""/></p>
+
+<!-- <p align="left"><img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="500"/></p>  -->
+
 
 
 
