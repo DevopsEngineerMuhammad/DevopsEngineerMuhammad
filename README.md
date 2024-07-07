@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer dedicated to continuous learning and sharing knowledge with the community. Below, you'll find information about my skills, projects, and how to connect with me.
 
-![DevOps Banner](https://www.datocms-assets.com/2885/1620155116-blog-hero.png) <!-- Update with an appropriate banner image URL -->
+![DevOps Banner](https://github.com/DevopsEngineerMuhammad/DevopsEngineerMuhammad/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(5).png)) <!-- Update with an appropriate banner image URL -->
 
 ## 🚀 About Me
 
