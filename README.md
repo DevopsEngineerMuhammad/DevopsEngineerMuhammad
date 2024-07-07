@@ -83,7 +83,8 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="500"/>
 
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="500" style="float: right;"/>
+<p align="right"><img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="600"/></p>
+
 
 
 
