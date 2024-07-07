@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer dedicated to cont
 
 Seeking a dynamic opportunity, either as an intern or in an entry-level position, where I can apply and develop my skills in Linux, Git, GitHub, Ansible, Docker, Kubernetes, CI/CD pipelines, Jenkins, and other DevOps tools. I am enthusiastic about contributing to innovative projects, gaining practical experience, and advancing my expertise in DevOps practices.
 
-![Project GIF](![Uploading image.png…]()
-)
-
 ## 📧 Contact Information
 
 - **WhatsApp:** +923347508966
@@ -83,3 +80,5 @@ For a concise overview of my experience and skills, please view my resume [here]
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
 
 ![DevOps Skills](https://www.datocms-assets.com/2885/1620155322-blog-banner.png) <!-- Update with an appropriate skills image URL -->
+
+![GIF]([https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif))
