@@ -81,4 +81,4 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 
 ![DevOps Skills](https://www.datocms-assets.com/2885/1620155322-blog-banner.png) <!-- Update with an appropriate skills image URL -->
 
-![GIF]([https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif))
+![GIF](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif)
