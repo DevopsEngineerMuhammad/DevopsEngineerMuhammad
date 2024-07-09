@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muhammad Ullah!
+# Hi 👋, I'm Muhammad Ullah!
 
 ![DevOps Banner](https://github.com/DevopsEngineerMuhammad/DevopsEngineerMuhammad/blob/main/Muhammad's%20GitHub%20Profile%20Banner%20(2).png) <!-- Update with an appropriate banner image URL -->
 
@@ -79,12 +79,9 @@ For a concise overview of my experience and skills, please view my resume [here]
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
 
-- <p align="left"><img src="https://miro.medium.com/v2/resize:fit:1400/1*pCaz29jmBaD-KHaS4dlKaQ.gif" alt="DevOps GIF" width="1000""/></p>
+- <p align="left"><img src="https://miro.medium.com/v2/resize:fit:1400/1*pCaz29jmBaD-KHaS4dlKaQ.gif" alt="DevOps GIF" width="800""/></p>
 
 <!-- <p align="left"><img src="https://miro.medium.com/v2/resize:fit:2000/1*xpBuOfOAQ4J8D1vAyncmbg.gif" alt="DevOps GIF" width="500"/></p>  -->
-
-
-
 
 
 
