@@ -53,8 +53,9 @@ Mirpur University Of Science And Technology (MUST), Mirpur, AJK.
 **Operating Systems:** Linux (Amazon Linux, RedHat, Ubuntu)
 
 ### 3. Infrastructure as Code Implementations (In Progress)
-**Description:** Establishing a robust foundation for managing infrastructure through code, enabling efficient and scalable deployments in alignment with DevOps and cloud best practices.
-
+**Description:** Our goal with this project is to establish a robust foundation for managing infrastructure through 
+code, enabling efficient and scalable deployments
+in alignment with DevOps and cloud best practices.
 ## 🌐 Blogs
 
 I regularly write blogs to share my learning experiences and tips on DevOps. Check out my latest articles on [Hashnode](https://hashnode.com/):
