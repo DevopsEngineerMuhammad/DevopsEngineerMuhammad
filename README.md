@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Ullah!
 
-![DevOps Banner](https://github.com/DevopsEngineerMuhammad/DevopsEngineerMuhammad/blob/main/Muhammad's%20GitHub%20Profile%20Banner%20(2).png) <!-- Update with an appropriate banner image URL -->
+![DevOps Banner](https://github.com/DevopsEngineerMuhammad/DevopsEngineerMuhammad/blob/main/Muhammad's%20GitHub%20Profile%20Banner%20(3).png) <!-- Update with an appropriate banner image URL -->
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer dedicated to continuous learning and sharing knowledge with the community. Below, you'll find information about my skills, projects, and how to connect with me.
 
