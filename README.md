@@ -68,9 +68,9 @@ I regularly write blogs to share my learning experiences and tips on DevOps. Che
 
 I love connecting with like-minded professionals and enthusiasts. Feel free to reach out to me on:
 
-- **LinkedIn:** [Muhammad Ullah](Link to LinkedIn profile)
+- **LinkedIn:** www.linkedin.com/in/devops-engineer-muhammad
 - **GitHub:** [Muhammad Ullah](Link to GitHub profile)
-- **Hashnode:** [Muhammad Ullah](Link to Hashnode profile)
+- **Hashnode:** https://devopsengineermuhammad.hashnode.dev/:
 
 ## 📄 Resume
 
