@@ -58,7 +58,7 @@ code, enabling efficient and scalable deployments
 in alignment with DevOps and cloud best practices.
 ## 🌐 Blogs
 
-I regularly write blogs to share my learning experiences and tips on DevOps. Check out my latest articles on [Hashnode](https://hashnode.com/):
+I regularly write blogs to share my learning experiences and tips on DevOps. Check out my latest articles on [Hashnode]https://devopsengineermuhammad.hashnode.dev/:
 
 - **[Blog Title](Link to blog post):** Brief description of the blog post.
 - **[Blog Title](Link to blog post):** Brief description of the blog post.
