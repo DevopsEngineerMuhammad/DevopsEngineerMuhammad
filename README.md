@@ -69,7 +69,7 @@ I regularly write blogs to share my learning experiences and tips on DevOps. Che
 I love connecting with like-minded professionals and enthusiasts. Feel free to reach out to me on:
 
 - **LinkedIn:** www.linkedin.com/in/devops-engineer-muhammad
-- **GitHub:** [Muhammad Ullah](Link to GitHub profile)
+- **GitHub:** https://github.com/DevopsEngineerMuhammad/Kubernetes-8-Week-Learning-Journey.git
 - **Hashnode:** https://devopsengineermuhammad.hashnode.dev/:
 
 ## 📄 Resume
